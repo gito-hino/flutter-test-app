@@ -1,5 +1,7 @@
-# flutter-test-app
-Flutter学習用アプリ
+## プロジェクトの概要
 
-## 画面
-- HomeScreen
+### プロジェクト名
+flutter-test-app
+
+### 目的
+Flutterの学習
