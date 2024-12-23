@@ -5,5 +5,3 @@ flutter-test-app
 
 ### 目的
 Flutterの学習
-
-GPGテスト
