@@ -1,2 +1,2 @@
 # flutter-test-app
-Flutter学習用
+Flutter学習用アプリ
